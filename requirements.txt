@@ -1,5 +1,9 @@
 numpy
 sklearn
 matplotlib
+<<<<<<< HEAD
 seaborn
 pandas
+=======
+matplotlib.pyplot
+>>>>>>> 0596b74db5721aafa02ba0a398116d5cd60cfbbe
